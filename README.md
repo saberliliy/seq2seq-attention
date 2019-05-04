@@ -1,11 +1,11 @@
 # seq2seq-attention
 # Data 
-## data: 	
+data: 	
          data\processed  语料库及字典 
-## data\samples:   
+data\samples:   
                 human.txt 为随机选择用来测试预测效果的诗句 
                 default.txt   预测生成诗句 
-## model:     保存训练完成后模型 
+model:     保存训练完成后模型 
 
 # Code
 model_original.py:seq2seq+attention 模型 
